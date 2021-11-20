@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anparcus
 - 👀 I’m interested in learn code :P
-- 🌱 I’m currently learning Wordpress hooks taxomites 
+- 🌱 I’m currently learning Wordpress hooks taxonomy 
 - 💞️ I’m looking to collaborate on Ecogreen Reuse 
 - 📫 How to reach me Some idea!
 
